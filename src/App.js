@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          D'istinti D'istanti. Ma sempre più vicini. Buongiornissimo stella ***
+          Bye There! React App with Docker in AWS
         </p>
       </header>
     </div>
